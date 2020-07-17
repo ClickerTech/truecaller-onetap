@@ -1,6 +1,6 @@
 {
   "name": "truecaller-onetap",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Plugin for trucaller SDK - Ionic capacitor ",
   "main": "dist/plugin.js",
   "module": "dist/esm/index.js",
